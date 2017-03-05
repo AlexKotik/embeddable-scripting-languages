@@ -12,6 +12,8 @@
 | [Mruby](http://mruby.org/) | Ruby | MIT |
 | [MuJS](http://mujs.com/)| JavaScript | Affero GPL |
 | [Pawn](https://www.compuphase.com/pawn/pawn.htm) | Pawn | Apache |
+| [TinyPy](http://www.tinypy.org/) | Python | ??? |
+| [TinyRb](http://code.macournoyer.com/tinyrb/) | Ruby | ??? |
 | [V7](https://github.com/cesanta/v7) | JavaScript | GPL 2.0 |
 | [Wren](http://wren.io/) | Wren | MIT |
 
