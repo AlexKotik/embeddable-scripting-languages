@@ -8,6 +8,7 @@
 | [Duktape](http://duktape.org/) | JavaScript | MIT |
 | [IO](http://iolanguage.org/) | IO | BSD |
 | [Lua](http://www.lua.org/) | Lua | MIT |
+| [LuaJIT](http://luajit.org/) | Lua | MIT |
 | [Mruby](http://mruby.org/) | Ruby | MIT |
 | [MuJS](http://mujs.com/)| JavaScript | Affero GPL |
 | [Pawn](https://www.compuphase.com/pawn/pawn.htm) | Pawn | Apache |
