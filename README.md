@@ -7,10 +7,12 @@
 | [Dao](http://daoscript.org/) | Dao | BSD |
 | [Duktape](http://duktape.org/) | JavaScript | MIT |
 | [IO](http://iolanguage.org/) | IO | BSD |
+| [Jx9](http://jx9.symisc.net/) | Jx9 | SYMISC PL |
 | [Lua](http://www.lua.org/) | Lua | MIT |
 | [LuaJIT](http://luajit.org/) | Lua | MIT |
 | [Mruby](http://mruby.org/) | Ruby | MIT |
 | [MuJS](http://mujs.com/)| JavaScript | Affero GPL |
+| [ObjectScript](http://objectscript.ru/index.osh/en/) | ObjectScript | MIT |
 | [Pawn](https://www.compuphase.com/pawn/pawn.htm) | Pawn | Apache |
 | [TinyPy](http://www.tinypy.org/) | Python | ??? |
 | [TinyRb](http://code.macournoyer.com/tinyrb/) | Ruby | ??? |
