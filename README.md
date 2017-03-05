@@ -10,6 +10,7 @@
 | [Ejscript](https://github.com/embedthis/ejscript) | JavaScript | GPL |
 | [IO](http://iolanguage.org/) | IO | BSD |
 | [Jx9](http://jx9.symisc.net/) | Jx9 | SYMISC PL |
+| [Lily](https://fascinatedbox.github.io/lily-site/) | Lily | MIT |
 | [Lua](http://www.lua.org/) | Lua | MIT |
 | [LuaJIT](http://luajit.org/) | Lua | MIT |
 | [Mruby](http://mruby.org/) | Ruby | MIT |
