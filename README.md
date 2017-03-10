@@ -3,6 +3,8 @@
 ## Implemented in C
 | Implementation | Programming language | Licence |
 |----------------|----------------------|---------|
+| [Aria](https://github.com/rxi/aria) | LISP | MIT |
+| [C4](https://github.com/rswier/c4) | C | GPL |
 | [Chibi-Scheme](http://synthcode.com/wiki/chibi-scheme) | Scheme | BSD |
 | [Dao](http://daoscript.org/) | Dao | BSD |
 | [Duktape](http://duktape.org/) | JavaScript | MIT |
@@ -17,7 +19,10 @@
 | [MuJS](http://mujs.com/) | JavaScript | Affero GPL |
 | [NekoVM](http://nekovm.org/) | Neko, Haxe | MIT |
 | [Pawn](https://www.compuphase.com/pawn/pawn.htm) | Pawn | Apache |
+| [PH7](http://ph7.symisc.net/) | PHP | SYMISC PL |
 | [Pike](http://pike.lysator.liu.se/) | Pike | LGPL |
+| [PicoC](https://github.com/zsaleeba/picoc) | C | BSD |
+| [SGScript](http://www.sgscript.org/) | SGScript | MIT |
 | [TinyPy](http://www.tinypy.org/) | Python | ??? |
 | [TinyRb](http://code.macournoyer.com/tinyrb/) | Ruby | ??? |
 | [V7](https://github.com/cesanta/v7) | JavaScript | GPL 2.0 |
@@ -30,6 +35,7 @@
 | [ChaiScript](http://chaiscript.com/) | ChaiScript | BSD |
 | [Falcon](http://www.falconpl.org/) | Falcon | GPL |
 | [GameMonkey](http://www.gmscript.com/) | GameMonkey | MIT |
+| [JetScript](https://github.com/matt-attack/JetScript) | JetScript | MIT |
 | [ObjectScript](http://objectscript.ru/index.osh/en/) | ObjectScript | MIT |
 | [Squirrel](http://www.squirrel-lang.org/) | Squirrel | MIT |
 
